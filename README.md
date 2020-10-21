@@ -1,1 +1,1 @@
-# C_Sharp Applications
+# C_Sharp exercises
